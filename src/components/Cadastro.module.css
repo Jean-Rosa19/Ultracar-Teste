@@ -1,0 +1,22 @@
+.cadastro {
+    margin: 3rem; 
+  }
+  
+  .cadastro h1 {
+    margin-top: 3rem;
+  }
+  
+  .cadastro label {
+    margin-bottom: 3rem;
+  }
+  
+  .cadastro input[type="text"] {
+    border-radius: 0.5rem;
+  }
+  
+  .cadastro button {
+    border-radius: 0.5rem; 
+  }
+
+  
+  
