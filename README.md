@@ -3,8 +3,8 @@
 ## clone o repositório:
 git clone git@github.com:Jean-Rosa19/Ultracar-Teste.git
 
-## entre na pasta four-wheels:
-cd four-wheels
+## entre na pasta Ultracar-Teste:
+cd Ultracar-Teste
 
 ## instale as dependências:
 npm install
